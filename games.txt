@@ -1,0 +1,5 @@
+{"GameVideoFileName":"MunchieMatch.webm","UrliOS":"https://apps.apple.com/ca/app/munchie-match-stacking-games/id1377501348","UrlAndroid":"https://play.google.com/store/apps/details?id=com.BouchardIndustries.MunchieMatch"}
+{"GameVideoFileName":"MunchieMatchOnline.webm","UrliOS":"https://apps.apple.com/ca/app/munchie-match-online-esports/id1448319757","UrlAndroid":""}
+{"GameVideoFileName":"ComboTimeExtreme.webm","UrliOS":"https://apps.apple.com/ca/app/munchie-match-stacking-games/id1377501348","UrlAndroid":"https://play.google.com/store/apps/details?id=eric.bouchard.android"}
+{"GameVideoFileName":"ShapeClicker.webm","UrliOS":"https://apps.apple.com/ca/app/id1082743575","UrlAndroid":"https://play.google.com/store/apps/details?id=tap.colorshape.switche2"}
+{"GameVideoFileName":"PuffyPenguin.webm","UrliOS":"https://itunes.apple.com/ca/app/puffy-penguin/id881792339?mt=8","UrlAndroid":""}
